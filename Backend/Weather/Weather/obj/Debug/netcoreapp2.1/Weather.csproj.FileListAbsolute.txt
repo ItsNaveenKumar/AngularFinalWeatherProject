@@ -1,0 +1,14 @@
+C:\Users\DELL PC\source\repos\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.csproj.CoreCompileInputs.cache
+C:\Users\DELL PC\source\repos\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.RazorAssemblyInfo.cache
+C:\Users\DELL PC\source\repos\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.RazorAssemblyInfo.cs
+C:\Users\DELL PC\source\repos\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.AssemblyInfoInputs.cache
+C:\Users\DELL PC\source\repos\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.AssemblyInfo.cs
+C:\Users\DELL PC\source\repos\Weather\Weather\bin\Debug\netcoreapp2.1\Weather.deps.json
+C:\Users\DELL PC\source\repos\Weather\Weather\bin\Debug\netcoreapp2.1\Weather.runtimeconfig.json
+C:\Users\DELL PC\source\repos\Weather\Weather\bin\Debug\netcoreapp2.1\Weather.runtimeconfig.dev.json
+C:\Users\DELL PC\source\repos\Weather\Weather\bin\Debug\netcoreapp2.1\Weather.dll
+C:\Users\DELL PC\source\repos\Weather\Weather\bin\Debug\netcoreapp2.1\Weather.pdb
+C:\Users\DELL PC\source\repos\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.RazorTargetAssemblyInfo.cache
+C:\Users\DELL PC\source\repos\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.dll
+C:\Users\DELL PC\source\repos\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.pdb
+C:\Users\DELL PC\source\repos\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\bin\Debug\netcoreapp2.1\UnitTestApi.deps.json
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\bin\Debug\netcoreapp2.1\UnitTestApi.runtimeconfig.json
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\bin\Debug\netcoreapp2.1\UnitTestApi.runtimeconfig.dev.json
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\bin\Debug\netcoreapp2.1\UnitTestApi.dll
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\obj\Debug\netcoreapp2.1\UnitTestApi.csprojAssemblyReference.cache
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\obj\Debug\netcoreapp2.1\UnitTestApi.csproj.CoreCompileInputs.cache
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\obj\Debug\netcoreapp2.1\UnitTestApi.AssemblyInfoInputs.cache
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\obj\Debug\netcoreapp2.1\UnitTestApi.AssemblyInfo.cs
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\bin\Debug\netcoreapp2.1\Weather.dll
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\bin\Debug\netcoreapp2.1\Weather.pdb
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\obj\Debug\netcoreapp2.1\UnitTestApi.csproj.CopyComplete
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\obj\Debug\netcoreapp2.1\UnitTestApi.dll
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\obj\Debug\netcoreapp2.1\UnitTestApi.pdb
+C:\Users\DELL PC\source\repos\UnitTestApi\UnitTestApi\bin\Debug\netcoreapp2.1\UnitTestApi.pdb
